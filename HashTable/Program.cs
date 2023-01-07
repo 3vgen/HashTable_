@@ -137,13 +137,12 @@ namespace HashTable
             hashTable.Delete("4");
             hashTable.Delete("5");
             hashTable.Delete("6");
-            hashTable.Find("3");
             hashTable.PrintTable();
-           
+            Console.WriteLine("dsdfds");
 
 
 
-          
+
 
 
 
